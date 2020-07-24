@@ -1,0 +1,8 @@
+C:\Users\Miiz\Desktop\BeenLove\BeenLove\bin\Debug\BeenLove.exe.config
+C:\Users\Miiz\Desktop\BeenLove\BeenLove\bin\Debug\BeenLove.exe
+C:\Users\Miiz\Desktop\BeenLove\BeenLove\bin\Debug\BeenLove.pdb
+C:\Users\Miiz\Desktop\BeenLove\BeenLove\obj\Debug\BeenLove.csprojAssemblyReference.cache
+C:\Users\Miiz\Desktop\BeenLove\BeenLove\obj\Debug\BeenLove.Properties.Resources.resources
+C:\Users\Miiz\Desktop\BeenLove\BeenLove\obj\Debug\BeenLove.csproj.GenerateResource.cache
+C:\Users\Miiz\Desktop\BeenLove\BeenLove\obj\Debug\BeenLove.exe
+C:\Users\Miiz\Desktop\BeenLove\BeenLove\obj\Debug\BeenLove.pdb
